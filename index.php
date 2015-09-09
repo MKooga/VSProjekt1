@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+    <link rel="stylesheet" href="stylesheet.css"/>
     <meta charset="UTF-8">
     <title>Tutvustus</title>
 
@@ -52,8 +52,6 @@
     </tr>
 
 </table>
-
-
 
 
 <hr>
