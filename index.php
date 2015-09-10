@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="stylesheet.css"/>
+    <link rel="stylesheet" href="Stylesheet.css"/>
     <meta charset="UTF-8">
     <title>Tutvustus</title>
 
@@ -12,13 +12,13 @@
 <h1>Martin Kooga</h1>
 <!--Martin iseloomustab ennast selliste sõnadega-->
 <p>Jõhvist pärit küünik</p>
-<img src=assets/Snapshot_20120212_5.JPG height="440" width="580">
+<img src=assets/Snapshot_20120212_5.JPG height="480" width="640">
 
 <div>
     <h2>Lühitutvustus</h2>
     <p>
-        Martin on õppinud 3 aastat Tartu Ülikoolis materjaliteadust, kuid kooli lõpetada ei ole tal veel õnnestunud.<br>
-        Ta on suur ajaloohuviline, kelle põhilisteks ajaviideteks on arvutimängud, filmid, sarjad ning raamatud.
+        Martin on õppinud 3 aastat Tartu Ülikoolis materjaliteadust,<br> kuid kooli lõpetada ei ole tal veel õnnestunud.
+        Ta on suur ajaloohuviline,<br> kelle põhilisteks ajaviideteks on arvutimängud, filmid, sarjad ning raamatud.
     </p>
 </div>
 
