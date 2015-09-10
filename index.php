@@ -46,8 +46,8 @@
         <th>Sünnilinn</th>
     </tr>
     <tr>
-        <td>11.11.1111</td>
-        <td>00</td>
+        <td>19.04.1992</td>
+        <td>23</td>
         <td>Jõhvi</td>
     </tr>
 
